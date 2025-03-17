@@ -7,11 +7,9 @@ int main() {
     // Sugestão: Substitua as movimentações das peças por funções recursivas.
     // Exemplo: Crie uma função recursiva para o movimento do Bispo.
 
-    // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
-    // Inclua o uso de continue e break dentro dos loops.
 
     int movTorre = 5, movBispo = 5, movRainha = 8;
-    int movCavalo = 2;
+    int movCavalo = 2; // quantidade de casas do primeiro movimento
 
     //movimento da torre
     printf("Movimento da torre: \n");
